@@ -1,4 +1,4 @@
-# png-to-webp
+# to-webp
 
 Usage
 
